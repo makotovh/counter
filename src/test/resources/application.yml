@@ -1,0 +1,6 @@
+spring:
+  profiles: test
+  security:
+    user:
+      name: userTest
+      password: userTest
